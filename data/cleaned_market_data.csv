@@ -1,0 +1,945 @@
+establecimiento,producto,marca,presentacion,gramaje,precio,aroma,frentes,nivel_de_percha,promoción,tipo_medida
+emprovit,jabón liquido,jolly,botella,500ml,1.8,floral,1.0,3,,volumen
+emprovit,jabón liquido,only,botella,1l,1.45,bambú,1.0,3,,volumen
+emprovit,jabón liquido,only,botella,250ml,0.86,naranja,2.0,3,,volumen
+emprovit,jabón liquido,sarys,doypack,1l,1.75,vainilla exótica,1.0,3,,volumen
+emprovit,desinfectante,kalipto,botella,2lt,4.15,naranja+limón con bicarbonato,1.0,1,,volumen
+emprovit,desinfectante,kalipto,botella,1l,2.1,lavanda,1.0,ojos,,volumen
+emprovit,desinfectante,olimpia,botella,900ml,2.0,manzana+canela,1.0,ojos,,volumen
+emprovit,desinfectante,olimpia,botella,1gl,7.2,vainilla,1.0,1,,volumen
+emprovit,desinfectante,elis,botella,1l,1.45,lavanda,1.0,media,,volumen
+emprovit,desinfectante,gol,doypack,550ml,0.63,eucalipto,1.0,2,,volumen
+emprovit,desinfectante,tips,botella,1l,1.35,frutilla,1.0,1,,volumen
+emprovit,desinfectante,klean,botella,1gl,3.36,eucalipto,1.0,1,,volumen
+emprovit,desinfectante,elis,botella,1gl,4.65,eucalipto,1.0,1,,volumen
+emprovit,desinfectante,gol,doypack,300ml,0.32,lavanda,1.0,3,,volumen
+emprovit,desinfectante,tips,botella,500ml,0.68,eucalipto,5.0,ojos,,volumen
+emprovit,desinfectante,olimpia,botella,450ml,0.85,manzana+canela,4.0,3,,volumen
+emprovit,desinfectante,olimpia,botella,240ml,0.4,manzana+canela,1.0,arriba,,volumen
+emprovit,desinfectante,tips,botella,240ml,0.33,manzana,2.0,3,,volumen
+emprovit,desinfectante,fabuloso,doypack,240ml,0.35,lavanda,2.0,3,,volumen
+emprovit,desinfectante,estrella,botella,250ml,0.43,eucalipto,2.0,3,,volumen
+emprovit,desinfectante,fabuloso,botella,500ml,0.8,naranja,2.0,ojos,,volumen
+emprovit,desinfectante,ajax,botella,1l,2.6,naranja - limon,1.0,ojos,,volumen
+emprovit,desinfectante,fabuloso,botella,1l,2.1,naranja,1.0,ojos,,volumen
+emprovit,desinfectante,fabuloso,botella,2lt,4.05,lavanda,1.0,2,,volumen
+emprovit,desinfectante,ajax,botella,3lt,6.65,naranja-limon con bicarbonato,1.0,mediano,,volumen
+emprovit,desinfectante,fabuloso,botella,3lt,5.75,lavanda,1.0,2,,volumen
+emprovit,desinfectante,kalipto,botella,1gl,7.8,frescura marina,1.0,1,,volumen
+emprovit,detergente líquido,ciclón,doypack,900ml,2.3,citrico,1.0,ojos,,volumen
+emprovit,detergente líquido,fab,doypack,900ml,2.2,con un toque suavizante,2.0,medio y ojos,,volumen
+emprovit,detergente líquido,ciclón,doypack,2.5lt,7.55,floral,1.0,1,,volumen
+emprovit,detergente líquido,deja,doypack,1.8lt,5.15,floral,2.0,1,,volumen
+emprovit,detergente líquido,perla,doypack,700ml,1.9,algodón,1.0,ojos,,volumen
+emprovit,detergente líquido,dersa,doypack,1.8lt,3.95,poder,1.0,2,,volumen
+emprovit,detergente líquido,fab,doypack,2lt,4.45,poder,1.0,1,,volumen
+emprovit,detergente líquido,perla,doypack,300ml,0.8,algodón,1.0,3,,volumen
+emprovit,detergente líquido,deja,doypack,300ml,0.83,floral,2.0,3,,volumen
+emprovit,detergente líquido,ciclón,doypack,300ml,0.77,limon,1.0,3,,volumen
+emprovit,detergente líquido,dersa,doypack,400ml,0.98,floral,4.0,arriba,,volumen
+emprovit,detergente líquido,dersa,doypack,400ml,0.98,floral,4.0,3,,volumen
+emprovit,detergente líquido,deja,doypack,300ml,0.83,floral,2.0,arriba,,volumen
+emprovit,detergente líquido,dersa,doypack,900ml,2.05,floral,1.0,ojos,,volumen
+emprovit,detergente líquido,perla,doypack,700ml,1.9,algodón,1.0,2,,volumen
+emprovit,cucharas,plastife,paquete,50 unidades,0.34,beige,3.0,2,,unidades
+emprovit,cucharas,plastife,paquete,50 unidades,0.19,azul,1.0,2,,unidades
+emprovit,cuchara mediana,plastife,paquete,50 unidades,0.45,verde,1.0,2,,unidades
+emprovit,cucharas,oxp,paquete,50 unidades,0.55,blanco,3.0,2,,unidades
+mi caserita,desinfectante,tips,botella,240ml,0.45,manzana,3.0,1,"promo 3 por un $1, pero de la misma fragancia",volumen
+emprovit,jabón liquido,jolly,botella,500ml,1.8,citrus,1.0,3,,volumen
+emprovit,jabón liquido,only,botella,500ml,1.1,manzanilla,1.0,3,,volumen
+emprovit,jabón liquido,only,botella,250ml,0.86,bambú,1.0,3,,volumen
+emprovit,jabón liquido,sarys,doypack,1l,1.75,coco,1.0,3,,volumen
+emprovit,desinfectante,kalipto,botella,2lt,4.15,eucalipto,1.0,1,,volumen
+emprovit,desinfectante,kalipto,botella,1l,2.1,manzana verde,1.0,ojos,,volumen
+emprovit,desinfectante,olimpia,botella,900ml,2.0,flor de manzana,1.0,ojos,,volumen
+emprovit,desinfectante,elis,botella,1l,1.45,eucalipto,1.0,media,,volumen
+emprovit,desinfectante,gol,doypack,550ml,0.63,lavanda,1.0,ojos,,volumen
+emprovit,desinfectante,tips,botella,1l,1.35,lavanda,1.0,1,,volumen
+emprovit,desinfectante,elis,botella,1gl,4.65,lavanda,1.0,1,,volumen
+emprovit,desinfectante,tips,botella,500ml,0.68,explosión floral,1.0,media,,volumen
+emprovit,desinfectante,olimpia,botella,450ml,0.85,flor de naranja,2.0,3,,volumen
+emprovit,desinfectante,olimpia,botella,240ml,0.4,bosque de pinos,1.0,arriba,,volumen
+emprovit,desinfectante,tips,botella,240ml,0.33,citronela,2.0,3,,volumen
+emprovit,desinfectante,fabuloso,doypack,240ml,0.35,floral,2.0,3,,volumen
+emprovit,desinfectante,estrella,botella,250ml,0.43,floral,2.0,3,,volumen
+emprovit,desinfectante,fabuloso,botella,500ml,0.8,violeta,2.0,ojos,,volumen
+emprovit,desinfectante,fabuloso,botella,1l,2.1,floral,1.0,ojos,,volumen
+emprovit,desinfectante,fabuloso,botella,2lt,4.05,floral,2.0,2,,volumen
+emprovit,desinfectante,kalipto,botella,1gl,7.8,manzana verde,1.0,1,,volumen
+emprovit,detergente líquido,fab,doypack,900ml,2.2,vida activa,2.0,medioy ojos,,volumen
+emprovit,detergente líquido,ciclón,doypack,2.5lt,7.55,con toque suavizante,1.0,1,,volumen
+emprovit,detergente líquido,perla,doypack,300ml,0.8,manzanilla,2.0,arriba,,volumen
+emprovit,cucharas,plastife,paquete,50 unidades,0.19,verde,1.0,2,,unidades
+mi caserita,desinfectante,tips,botella,240ml,0.45,manzana,2.0,2,"promo 3 por un $1, pero de la misma fragancia",volumen
+mi caserita,desinfectante,tips,botella,240ml,0.45,manzana,4.0,ojos,"promo 3 por un $1, pero de la misma fragancia",volumen
+mi caserita,desinfectante,tips,botella,240ml,0.45,citronela,1.0,ojos,"promo 3 por un $1, pero de la misma fragancia",volumen
+mi caserita,desinfectante,tips,botella,240ml,0.45,citronela,1.0,1,"promo 3 por un $1, pero de la misma fragancia",volumen
+emprovit,jabón liquido,only,botella,500ml,1.45,rosas,2.0,3,,volumen
+emprovit,desinfectante,kalipto,botella,2lt,4.15,manzana verde,2.0,1,,volumen
+emprovit,desinfectante,kalipto,botella,1l,2.1,naranja + limon con bicarbonato,3.0,ojos,,volumen
+emprovit,desinfectante,olimpia,botella,900ml,2.0,bosque de pinos,1.0,ojos,,volumen
+emprovit,desinfectante,olimpia,botella,450ml,0.85,eucalipto,1.0,3,,volumen
+emprovit,desinfectante,olimpia,botella,240ml,0.4,flor de manzana,1.0,arriba,,volumen
+emprovit,desinfectante,tips,botella,240ml,0.33,explosión floral,2.0,3,,volumen
+emprovit,desinfectante,fabuloso,doypack,240ml,0.35,naranja,1.0,3,,volumen
+emprovit,desinfectante,estrella,botella,250ml,0.43,lavanda,2.0,3,,volumen
+emprovit,desinfectante,fabuloso,botella,500ml,0.8,floral,1.0,ojos,,volumen
+emprovit,desinfectante,fabuloso,botella,1l,2.1,lavanda,1.0,ojos,,volumen
+emprovit,desinfectante,kalipto,botella,1gl,7.8,limon+ verbena,1.0,1,,volumen
+emprovit,cucharas,plastife,paquete,50 unidades,0.19,amarillo,2.0,2,,unidades
+mi caserita,desinfectante,tips,botella,240ml,0.45,citronela,1.0,2,"promo 3 por un $1, pero de la misma fragancia",volumen
+mi caserita,desinfectante,tips,botella,240ml,0.45,floral,2.0,1,"promo 3 por un $1, pero de la misma fragancia",volumen
+emprovit,desinfectante,kalipto,botella,2lt,4.15,limon + verbena,2.0,1,,volumen
+emprovit,desinfectante,kalipto,botella,2lt,4.15,frescura marina,1.0,1,,volumen
+emprovit,desinfectante,kalipto,botella,1l,2.1,pasion frutal,1.0,media,,volumen
+emprovit,desinfectante,olimpia,botella,450ml,0.85,lavanda,1.0,3,,volumen
+emprovit,desinfectante,olimpia,botella,240ml,0.4,frescura herbal,1.0,arriba,,volumen
+emprovit,desinfectante,olimpia,botella,240ml,0.4,eucalipto,1.0,arriba,,volumen
+emprovit,desinfectante,kalipto,botella,1l,2.1,naranja,1.0,media,,volumen
+emprovit,desinfectante,kalipto,botella,1gl,7.8,eucalipto,1.0,1,,volumen
+emprovit,desinfectante,fabuloso,botella,1l,2.1,bosque de pinos,1.0,ojos,,volumen
+emprovit,desinfectante,fabuloso,botella,500ml,0.8,naranja,1.0,ojos,,volumen
+emprovit,desinfectante,fabuloso,botella,2lt,4.05,frescura natural,1.0,2,,volumen
+emprovit,desinfectante,olimpia,botella,240ml,0.4,lavanda,1.0,arriba,,volumen
+emprovit,desinfectante,olimpia,botella,240ml,0.4,flor de naranja,1.0,arriba,,volumen
+mi caserita,desinfectante,tips,botella,240ml,0.45,floral,3.0,2,"promo 3 por un $1, pero de la misma fragancia",volumen
+mi caserita,desinfectante,tips,botella,240ml,0.45,floral,4.0,ojos,"promo 3 por un $1, pero de la misma fragancia",volumen
+mi caserita,desinfectante,tips,botella,1gl,6.39,lavanda,1.0,1,,volumen
+mi caserita,desinfectante,olimpia,botella,900ml,1.99,lavanda,1.0,1,,volumen
+mi caserita,desinfectante,olimpia,botella,900ml,1.99,eucalipto,1.0,2,,volumen
+mi caserita,desinfectante,olimpia,botella,900ml,1.99,eucalipto,1.0,ojos,,volumen
+mi caserita,desinfectante,olimpia,botella,900ml,1.99,flor de manzana,1.0,2,,volumen
+mi caserita,desinfectante,olimpia,botella,900ml,1.99,manzana y canela,1.0,ojos,,volumen
+mi caserita,desinfectante,fabuloso,botella,1l,1.99,floral,1.0,2,,volumen
+mi caserita,desinfectante,fabuloso,botella,1gl,4.39,floral,1.0,1,,volumen
+mi caserita,desinfectante,fabuloso,botella,1gl,4.39,lavanda,1.0,1,,volumen
+mi caserita,desinfectante,fabuloso,botella,500ml,0.89,floral,1.0,ojos,,volumen
+mi caserita,desinfectante,fabuloso,botella,1l,1.99,lavanda,1.0,2,,volumen
+mi caserita,desinfectante,fabuloso,botella,1l,1.99,aroma de bebe,1.0,2,,volumen
+mi caserita,desinfectante,fabuloso,botella,500ml,0.89,lavanda,1.0,ojos,,volumen
+mi caserita,desinfectante,florax,botella,200ml,0.38,eucalipto,2.0,3,,volumen
+mi caserita,desinfectante,fabuloso,doypack,240ml,0.45,floral,4.0,3,,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,floral,1.0,1,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,eucalipto,1.0,1,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,lavanda,1.0,1,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,marina,1.0,1,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,limon,1.0,1,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,manzana,1.0,1,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,floral,2.0,2,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,eucalipto,2.0,2,oferta el 25% 0.75 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,lavanda,2.0,2,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,marina,2.0,2,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,limon,2.0,2,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,manzana,2.0,2,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,floral,1.0,ojos,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,eucalipto,3.0,ojos,oferta el 25% 0.75 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,lavanda,2.0,ojos,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,marina,2.0,ojos,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,limon,2.0,ojos,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,manzana,2.0,ojos,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,floral,2.0,3,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,eucalipto,2.0,3,oferta el 25% 0.75 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,lavanda,2.0,3,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,marina,2.0,3,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,limon,2.0,3,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,manzana,2.0,3,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,floral,2.0,arriba,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,eucalipto,2.0,arriba,oferta el 25% 0.75 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,lavanda,2.0,arriba,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,marina,2.0,arriba,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,limon,2.0,arriba,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,justo,botella,1l,1.0,manzana,2.0,arriba,oferta el 15% 0.85 pvp,volumen
+mi caserita,desinfectante,tan uniko,doypack,1l,1.5,lavanda,3.0,1,oferta el 47% 0.79pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,300ml,0.85,con toque suavizante,4.0,ojos,oferta el 31% 0.69pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,300ml,0.85,xtra power floral,1.0,ojos,oferta el 31% 0.69pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,300ml,0.85,poder limon,3.0,ojos,oferta el 31% 0.69pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,300ml,0.85,con toque suavizante,3.0,3,oferta el 31% 0.69pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,300ml,0.85,xtra power floral,1.0,3,oferta el 31% 0.69pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,300ml,0.85,poder limon,3.0,3,oferta el 31% 0.69pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,300ml,0.85,con toque suavizante,4.0,arriba,oferta el 31% 0.69pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,300ml,0.85,xtra power floral,2.0,arriba,oferta el 31% 0.69pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,300ml,0.85,poder limon,3.0,arriba,oferta el 31% 0.69pvp,volumen
+mi caserita,detergente líquido,ciclon,doypack,1.3l,5.15,xtra power floral,2.0,2,,volumen
+mi caserita,detergente líquido,ciclon,doypack,1.3l,5.15,poder limon,2.0,2,,volumen
+mi caserita,detergente líquido,tan uniko,doypack,1.3l,1.85,triple accion,2.0,2,,volumen
+mi caserita,detergente líquido,perla,botella,2lt,9.49,aroma de bebe,4.0,1,,volumen
+mi caserita,detergente líquido,dersa,botella,4l,8.9,floral,1.0,1,,volumen
+mi caserita,detergente líquido,estrella,doypack,300ml,0.85,super power,2.0,arriba,,volumen
+mi caserita,detergente líquido,estrella,doypack,300ml,0.85,super power,2.0,3,,volumen
+mi caserita,detergente líquido,estrella,doypack,300ml,0.85,super power,2.0,ojos,,volumen
+mi caserita,detergente líquido,estrella,doypack,300ml,0.85,super power,2.0,2,,volumen
+mi caserita,detergente líquido,deja,doypack,300ml,0.89,floral,1.0,arriba,,volumen
+mi caserita,detergente líquido,deja,doypack,300ml,0.89,con suavizante,1.0,arriba,,volumen
+mi caserita,detergente líquido,deja,doypack,300ml,0.89,floral,1.0,ojos,,volumen
+mi caserita,detergente líquido,deja,doypack,300ml,0.89,con suavizante,1.0,ojos,,volumen
+mi caserita,detergente líquido,deja,doypack,300ml,0.89,floral,1.0,3,,volumen
+mi caserita,detergente líquido,deja,doypack,300ml,0.89,con suavizante,1.0,3,,volumen
+mi caserita,cloro,ajax,sachet,300gr,0.3,original,1.0,1,oferta -33% 5x$1,peso
+mi caserita,cloro,sacheton,sachet,300gr,0.2,original,1.0,1,,peso
+mi caserita,cloro,distron,botella,1gl,1.99,al 5.9%,5.0,2,,volumen
+mi caserita,cloro,distron,botella,1l,1.0,original,3.0,3,oferta -51%  0.49,volumen
+mi caserita,cloro,distron,botella,1l,1.0,original,5.0,arriba,oferta -51%  0.49,volumen
+mi caserita,cloro,distron,botella,1l,0.54,original,20.0,estante  frontal,,volumen
+mi caserita,cloro,clorox,sachet,300gr,0.25,original,4.0,estante  frontal,oferta -20% 5x$1,peso
+mi caserita,jabon liquido,clans,doypack,1l,1.29,cherry,1.0,arriba,,volumen
+mi caserita,jabon liquido,clans,doypack,1l,1.29,frutos rojos,1.0,arriba,,volumen
+mi caserita,jabon liquido,clans,doypack,1l,1.29,cherry,1.0,3,,volumen
+mi caserita,jabon liquido,clans,doypack,1l,1.29,avena,1.0,3,,volumen
+mi caserita,jabon liquido,clans,doypack,1l,1.29,frutos rojos,1.0,3,,volumen
+mi caserita,jabon liquido,clans,botella,500ml,1.49,frutos rojos,1.0,arriba,,volumen
+mi caserita,jabon liquido,clans,botella,500ml,1.49,avena,2.0,arriba,,volumen
+mi caserita,jabon liquido,essences,botella,500ml,1.19,manzana,1.0,arriba,,volumen
+mi caserita,jabon liquido,distron,botella,500ml,0.99,rojo,1.0,arriba,,volumen
+mi caserita,jabon liquido,distron,botella,500ml,0.99,verde,1.0,arriba,,volumen
+mi caserita,jabon liquido,distron,botella,500ml,0.99,manzanilla,1.0,arriba,,volumen
+mi caserita,jabon liquido,distron,botella,500ml,0.99,rojo,1.0,3,,volumen
+mi caserita,jabon liquido,distron,botella,500ml,0.99,verde,1.0,3,,volumen
+mi caserita,jabon liquido,distron,botella,500ml,0.99,manzanilla,1.0,3,,volumen
+mi caserita,jabon liquido,jolly,botella,500ml,2.05,floral,1.0,3,,volumen
+mi caserita,jabon liquido,jolly,botella,500ml,2.05,almendra,1.0,arriba,,volumen
+mi caserita,jabon liquido,jolly,botella,500ml,2.05,avena,1.0,arriba,,volumen
+mi caserita,jabon liquido,jolly,botella,500ml,2.05,almendra,1.0,3,,volumen
+mi caserita,jabon liquido,jolly,botella,500ml,2.05,avena,1.0,3,,volumen
+mi caserita,jabon liquido,protex,botella,221ml,2.65,avena,1.0,3,,volumen
+mi caserita,tenedor,oxford,paquete,,0.6,negro,2.0,1,,desconocido
+mi caserita,tenedor,oxford,paquete,,0.74,blanco,2.0,1,,desconocido
+mi caserita,mini tenedor,condor,paquete,,0.54,blanco,1.0,1,,desconocido
+mi caserita,cucharas,oxford,paquete,,0.29,negro,2.0,1,,desconocido
+supermercado escobar,desinfectante,olimpia,botella,450ml,0.95,vainilla y avellana,3.0,ojos,,volumen
+supermercado escobar,desinfectante,olimpia,botella,450ml,0.95,pinos navideños,2.0,ojos,,volumen
+supermercado escobar,desinfectante,olimpia,botella,450ml,0.95,eucalipto,3.0,ojos,,volumen
+supermercado escobar,desinfectante,olimpia,botella,450ml,0.95,lavanda,4.0,ojos,,volumen
+supermercado escobar,desinfectante,olimpia,botella,450ml,0.95,canela y manzana,2.0,ojos,,volumen
+supermercado escobar,desinfectante,olimpia,botella,900ml,2.0,vainilla y avellana,2.0,2,,volumen
+supermercado escobar,desinfectante,olimpia,botella,900ml,2.0,manzana,2.0,2,,volumen
+supermercado escobar,desinfectante,olimpia,botella,900ml,2.0,eucalipto,2.0,2,,volumen
+supermercado escobar,desinfectante,olimpia,botella,900ml,2.0,lavanda,2.0,2,,volumen
+supermercado escobar,desinfectante,olimpia,botella,900ml,2.0,canela y manzana,3.0,2,,volumen
+supermercado escobar,desinfectante,olimpia,botella,240ml,2.0,vainilla y avellana,8.0,3,,volumen
+supermercado escobar,desinfectante,olimpia,botella,240ml,2.0,manzana,1.0,3,,volumen
+supermercado escobar,desinfectante,olimpia,botella,240ml,2.0,eucalipto,8.0,3,,volumen
+supermercado escobar,desinfectante,olimpia,botella,240ml,2.0,lavanda,6.0,3,,volumen
+supermercado escobar,desinfectante,olimpia,botella,240ml,2.0,canela y manzana,8.0,3,,volumen
+supermercado escobar,detergente líquido,dersa,botella,4l,6.0,floral,2.0,arriba,,volumen
+supermercado escobar,detergente líquido,fabuloso,botella,500ml,0.95,naranja,3.0,3,,volumen
+supermercado escobar,detergente líquido,fabuloso,botella,500ml,0.95,floral,3.0,3,,volumen
+supermercado escobar,detergente líquido,fabuloso,botella,500ml,0.95,lavanda,3.0,3,,volumen
+supermercado escobar,detergente líquido,fabuloso,doypack,240ml,0.41,naranja,2.0,arriba,,volumen
+supermercado escobar,detergente líquido,fabuloso,doypack,240ml,0.41,floral,4.0,arriba,,volumen
+supermercado escobar,detergente líquido,fabuloso,doypack,240ml,0.41,lavanda,3.0,arriba,,volumen
+supermercado escobar,cloro,tifon,botella,500ml,0.87,original,4.0,3,,volumen
+supermercado escobar,cloro,sanson,botella,500ml,0.85,original,6.0,3,,volumen
+supermercado escobar,cloro,sanson,botella,1l,1.15,original,3.0,ojos,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,limon+ verbena,1.0,3,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,frescura marina,1.0,3,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,manzana verde,1.0,3,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,vainilla,1.0,3,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,eucalipto,1.0,3,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,lavanda,1.0,3,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,mascotas,1.0,3,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,manzana canela,1.0,3,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,limon+ verbena,1.0,ojos,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,frescura marina,2.0,ojos,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,vainilla,1.0,ojos,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,eucalipto,1.0,ojos,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,lavanda,1.0,ojos,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,mascotas,1.0,ojos,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1l,2.25,manzana canela,1.0,ojos,,volumen
+supermercado escobar,desinfectante,kalipto,botella,1gl,6.75,lavanda,2.0,2,,volumen
+supermercado escobar,desinfectante,kalipto,botella,2000ml,3.9,limon+ verbena,1.0,2,,volumen
+supermercado escobar,desinfectante,kalipto,botella,2000ml,3.9,manzana verde,1.0,2,,volumen
+supermercado escobar,desinfectante,kalipto,botella,2000ml,3.9,lavanda,2.0,2,,volumen
+supermercado escobar,jabon liquido,goldery,botella,500ml,1.6,coco vainilla,1.0,ojos,con glicerina y aloe vera,volumen
+supermercado escobar,jabon liquido,goldery,botella,500ml,1.6,agua marina,1.0,ojos,con glicerina y aloe vera,volumen
+supermercado escobar,jabon liquido,goldery,botella,500ml,1.6,frutos rojos,1.0,ojos,con glicerina y aloe vera,volumen
+comercial garcez,cloro,clorox,botella,1l,1.35,original,4.0,2,vta por caja de 12 botellas,volumen
+comercial garcez,cloro,clorox,sachet,300gr,0.96,original,1.0,1,vta por caja de 60 sachets,peso
+comercial garcez,cloro,clorox,botella,1gl,3.99,original,1.0,1,vta por caja de 3 botellas,volumen
+comercial garcez,cloro,clorox,botella,2lt,2.35,original,1.0,1,vta por caja de 8 botellas,volumen
+comercial garcez,jabon liquido,elis,doypack,1l,1.99,floral,2.0,3,,volumen
+comercial garcez,jabon liquido,elis,doypack,1l,1.99,naranja citrica,2.0,3,,volumen
+comercial garcez,jabon liquido,elis,doypack,1l,1.99,manzana verde,2.0,3,,volumen
+comercial garcez,jabon liquido,sarys,doypack,1l,1.91,coconut,1.0,3,,volumen
+comercial garcez,jabon liquido,essences,botella,500ml,1.35,floral,2.0,arriba,,volumen
+comercial garcez,jabon liquido,essences,botella,500ml,1.35,naranja citrica,2.0,arriba,,volumen
+comercial garcez,jabon liquido,bambino,botella,500ml,1.45,maracuya,1.0,arriba,,volumen
+comercial garcez,jabon liquido,bambino,botella,500ml,1.45,avena,2.0,arriba,,volumen
+comercial garcez,jabon liquido,bambino,botella,500ml,1.45,sweet,1.0,arriba,,volumen
+comercial garcez,jabon liquido,essences,botella,1gl,5.55,manzana verde,1.0,ojos,,volumen
+comercial garcez,jabon liquido,essences,botella,1gl,5.55,naranja citrica,1.0,ojos,,volumen
+comercial garcez,jabon liquido,jolly,botella,500ml,2.09,avena,1.0,arriba,,volumen
+comercial garcez,jabon liquido,jolly,botella,500ml,1.69,citrus,5.0,arriba,a partir de 6 unidades a 1.62,volumen
+comercial garcez,jabon liquido,jolly,botella,500ml,1.69,citrus,4.0,3,a partir de 6 unidades a 1.62,volumen
+comercial garcez,jabon liquido,jolly,botella,500ml,1.69,floral,3.0,arriba,a partir de 6 unidades a 1.62,volumen
+comercial garcez,jabon liquido,jolly,botella,500ml,1.69,almendra,6.0,arriba,a partir de 6 unidades a 1.62,volumen
+comercial garcez,jabon liquido,jolly,botella,500ml,1.69,floral,3.0,3,,volumen
+comercial garcez,jabon liquido,jolly,botella,500ml,1.69,almendra,6.0,3,,volumen
+comercial garcez,jabon liquido,jolly,doypack,1150ml,3.15,citrus,1.0,ojos,,volumen
+comercial garcez,jabon liquido,jolly,doypack,1150ml,3.15,almendra,1.0,ojos,,volumen
+comercial garcez,jabon liquido,jolly,doypack,1150ml,3.15,floral,1.0,ojos,,volumen
+comercial garcez,jabon liquido,palmolive,botella,210ml,2.69,manzana,1.0,arriba,,volumen
+comercial garcez,jabon liquido,goldery,botella,500ml,1.29,agua marina,7.0,arriba,,volumen
+comercial garcez,detergente líquido,elis,botella,1gl,7.49,suave brisa,1.0,arriba,con suavizante,volumen
+comercial garcez,detergente líquido,elis,botella,1gl,7.49,ropa nueva,1.0,arriba,con suavizante,volumen
+comercial garcez,detergente líquido,elis,botella,1gl,7.49,lavanda,1.0,arriba,con suavizante,volumen
+comercial garcez,detergente líquido,goldery,botella,3000ml,6.55,floral,1.0,arriba,con suavizante 2en 1,volumen
+comercial garcez,cloro,clorox,botella,475g,0.79,original,6.0,ojos,,peso
+comercial garcez,cloro,elis,botella,1l,0.85,original,1.0,ojos,,volumen
+comercial garcez,cloro,elis,botella,1gl,2.25,original,1.0,ojos,,volumen
+comercial garcez,cloro,clorox,botella,150ml,0.64,original,2.0,1,,volumen
+comercial garcez,cloro,clorox,sachet,300gr,0.25,original,7.0,1,,peso
+comercial garcez,cloro,clorox,botella,2.080kg,2.35,original,3.0,3,,peso
+comercial garcez,cloro,clorox,botella,1l,1.75,original,5.0,ojos,,volumen
+comercial garcez,cloro,clorox,botella,1gl,3.99,original,3.0,arriba,,volumen
+comercial garcez,cloro,estrella,botella,500ml,0.6,original,7.0,2,,volumen
+comercial garcez,cloro,estrella,botella,1l,0.89,original,6.0,ojos,poder 4 en 1,volumen
+comercial garcez,cloro,estrella,botella,1gl,2.75,original,2.0,ojos,,volumen
+comercial garcez,desinfectante,olimpia,botella,240ml,0.45,vainilla y avellana,2.0,1,,volumen
+comercial garcez,desinfectante,olimpia,botella,240ml,0.45,eucalipto,2.0,1,,volumen
+comercial garcez,desinfectante,olimpia,botella,240ml,0.45,lavanda,2.0,1,,volumen
+comercial garcez,desinfectante,olimpia,botella,240ml,0.45,manzana canela,2.0,1,,volumen
+comercial garcez,desinfectante,olimpia,botella,240ml,0.45,manzana verde,2.0,1,,volumen
+comercial garcez,desinfectante,olimpia,botella,240ml,0.45,bosque de pinos,2.0,1,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,vainilla y avellana,1.0,2,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,eucalipto,1.0,2,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,lavanda,1.0,2,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,manzana canela,2.0,2,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,flor de naranja,1.0,2,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,bosque de pinos,2.0,2,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,mascotas,2.0,2,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,vainilla y avellana,1.0,ojos,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,eucalipto,1.0,ojos,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,lavanda,2.0,ojos,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,manzana canela,1.0,ojos,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,flor de naranja,2.0,ojos,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,bosque de pinos,1.0,ojos,,volumen
+comercial garcez,desinfectante,olimpia,botella,450ml,0.79,mascotas,1.0,ojos,,volumen
+comercial garcez,desinfectante,olimpia,botella,900ml,1.95,eucalipto,1.0,3,,volumen
+comercial garcez,desinfectante,olimpia,botella,900ml,1.95,lavanda,1.0,3,,volumen
+comercial garcez,desinfectante,olimpia,botella,900ml,1.95,manzana canela,1.0,3,,volumen
+comercial garcez,desinfectante,olimpia,botella,900ml,1.95,flor de manzana,1.0,3,,volumen
+comercial garcez,desinfectante,olimpia,botella,900ml,2.05,flor de naranja,1.0,3,,volumen
+comercial garcez,desinfectante,olimpia,botella,900ml,2.05,bosque de pinos,1.0,3,antiviral,volumen
+comercial garcez,desinfectante,olimpia,botella,900ml,1.95,mascotas,1.0,3,,volumen
+comercial garcez,desinfectante,gol,doypack,300ml,0.32,lavanda,1.0,1,,volumen
+comercial garcez,desinfectante,gol,doypack,300ml,0.32,eucalipto,1.0,1,,volumen
+comercial garcez,desinfectante,gol,doypack,300ml,0.32,lavanda,1.0,2,,volumen
+comercial garcez,desinfectante,gol,doypack,300ml,0.32,eucalipto,2.0,2,,volumen
+comercial garcez,desinfectante,gol,doypack,550ml,0.79,lavanda,8.0,2,oferta a 0.65ctv,volumen
+comercial garcez,desinfectante,gol,doypack,550ml,0.79,lavanda,9.0,1,,volumen
+comercial garcez,desinfectante,sani,botella,1l,1.35,eucalipto,2.0,ojos,,volumen
+comercial garcez,desinfectante,sani,botella,1l,1.35,eucalipto,2.0,3,,volumen
+comercial garcez,desinfectante,elis,botella,5lt,4.49,canela,2.0,arriba,,volumen
+comercial garcez,desinfectante,elis,botella,5lt,4.49,lavanda,1.0,arriba,,volumen
+comercial garcez,desinfectante,elis,botella,5lt,4.49,eucalipto,2.0,arriba,,volumen
+comercial garcez,desinfectante,sani,botella,1gl,3.95,manzana canela,1.0,3,,volumen
+comercial garcez,desinfectante,sani,botella,1gl,3.95,lavanda,2.0,3,,volumen
+comercial garcez,desinfectante,sani,botella,1gl,3.95,eucalipto,1.0,3,,volumen
+comercial garcez,desinfectante,sani,botella,1gl,3.95,brisa marina,3.0,3,,volumen
+comercial garcez,desinfectante,fabuloso,botella,2lt,4.35,floral,3.0,ojos,,volumen
+comercial garcez,desinfectante,tips,botella,500ml,0.79,eucalipto,2.0,2,,volumen
+comercial garcez,desinfectante,tips,botella,500ml,0.79,manzana verde,2.0,2,,volumen
+comercial garcez,desinfectante,tips,botella,500ml,0.79,manzana canela,2.0,2,,volumen
+comercial garcez,desinfectante,tips,botella,500ml,0.79,frutilla,2.0,2,,volumen
+comercial garcez,desinfectante,tips,botella,500ml,0.79,citronela,2.0,2,,volumen
+comercial garcez,desinfectante,tips,botella,500ml,0.79,floral,0.0,2,,volumen
+comercial garcez,tenedor,chiquitene,paquete,,0.59,blanco,1.0,2,,desconocido
+comercial garcez,cucharas,oxp,paquete,,0.25,blanco,4.0,ojos,,desconocido
+comercial garcez,tenedor,displas,paquete,,0.55,blanco,5.0,3,,desconocido
+comercial garcez,cucharas,oxp,paquete,,0.55,blanco,4.0,3,,desconocido
+titan,detergente líquido,ciclon,doypack,1300ml,4.89,floral,3.0,arriba,3.82 a partir de 3 unidades,volumen
+titan,detergente líquido,gama,botella,1000ml,1.99,floral,3.0,arriba,,volumen
+titan,detergente líquido,rossy klean,caneca,20lt,24.29,limon,2.0,1,,volumen
+titan,cloro,fast,botella,1gl,2.99,original,1.0,3,,volumen
+titan,cloro,fast,botella,1gl,3.32,limon,1.0,3,,volumen
+titan,cloro,gama,botella,1l,0.59,original,1.0,3,,volumen
+titan,cloro,la original,botella,3785ml,2.85,limon,1.0,2,,volumen
+titan,cloro,tips,botella,3800ml,4.04,original,1.0,2,2.99 26% de descto,volumen
+titan,cloro,,botella,4lt,3.19,original,1.0,2,,volumen
+titan,cloro,,botella,2lt,1.89,original,1.0,2,,volumen
+titan,cloro,la original,botella,3785ml,1.9,original,2.0,2,,volumen
+titan,cloro,zakka,sachet,6*150ml,0.81,original,4.0,1,,multipack
+titan,cloro,la original,botella,2lt,1.08,original,1.0,2,,volumen
+titan,cloro,la original,botella,1l,0.54,original,3.0,2,,volumen
+titan,cloro,la original,sachet,270ml,0.25,original,4.0,ojos,,volumen
+titan,cloro,la original,botella,500ml,0.49,original,4.0,ojos,,volumen
+titan,cloro,clorox,caneca,21000g,17.57,original,1.0,1,,peso
+titan,cloro,clorox,caneca,20lt,11.36,original,1.0,1,,volumen
+titan,cloro,clorox,sachet,160g,0.17,original,2.0,1,,peso
+titan,cloro,clorox,sachet,475g,0.74,original,3.0,ojos,,peso
+titan,cloro,clorox,botella,1040g,1.51,original,3.0,2,,peso
+titan,cloro,clorox,botella,1040g,1.58,limon,3.0,3,,peso
+titan,desinfectante,fabuloso,botella,1l,2.31,floral,6.0,2,,volumen
+titan,desinfectante,fabuloso,botella,1l,2.31,lavanda,3.0,2,,volumen
+titan,desinfectante,rossy klean,caneca,20lt,16.93,eucalipto,1.0,1,,volumen
+titan,desinfectante,rossy klean,caneca,20lt,17.13,floral,1.0,1,,volumen
+titan,desinfectante,fabuloso,botella,5lt,7.98,lavanda,5.0,1,,volumen
+titan,desinfectante,fabuloso,botella,3lt,6.13,lavanda,5.0,2,,volumen
+titan,desinfectante,fabuloso,botella,500ml,1.19,naranja,8.0,ojos,,volumen
+titan,desinfectante,olimpia,botella,240ml,0.44,manzana canela,8.0,3,,volumen
+titan,desinfectante,ajax,botella,5lt,5.3,naranja limon,1.0,1,,volumen
+titan,desinfectante,tips,botella,3785ml,7.04,frutilla,2.0,1,,volumen
+titan,desinfectante,tips,botella,3785ml,7.04,manzana verde,2.0,1,,volumen
+titan,desinfectante,tips,botella,240ml,0.45,lavanda,8.0,2,,volumen
+titan,desinfectante,tips,botella,240ml,0.45,manzana canela,8.0,ojos,,volumen
+titan,desinfectante,tips,botella,240ml,0.45,brisa marina,4.0,3,,volumen
+titan,desinfectante,olimpia,botella,450ml,0.9,eucalipto,3.0,ojos,,volumen
+titan,desinfectante,olimpia,botella,900ml,2.02,eucalipto,2.0,ojos,,volumen
+titan,desinfectante,happy,botella,1l,1.9,manzana con toques de fresia,2.0,3,,volumen
+titan,desinfectante,olimpia,botella,240ml,0.44,lavanda,8.0,3,,volumen
+titan,desinfectante,la original,botella,1l,0.83,lavanda,3.0,1,,volumen
+titan,desinfectante,la original,botella,1l,0.83,citronela,3.0,1,,volumen
+titan,desinfectante,kalipto,botella,1l,2.36,eucalipto,2.0,2,,volumen
+titan,desinfectante,kalipto,botella,250ml,0.47,manzana verde,4.0,ojos,,volumen
+titan,desinfectante,kalipto,botella,250ml,0.47,naranja limon,4.0,ojos,,volumen
+titan,desinfectante,kalipto,botella,250ml,0.47,lavanda floral,4.0,ojos,,volumen
+titan,desinfectante,kalipto,botella,250ml,0.47,eucalipto,4.0,ojos,,volumen
+titan,desinfectante,kalipto,botella,2lt,4.03,eucalipto,2.0,ojos,,volumen
+titan,desinfectante,kalipto,botella,3785ml,8.06,lavanda,1.0,2,6.45 con el 20% de descuento,volumen
+titan,desinfectante,kalipto,botella,3785ml,8.06,eucalipto,1.0,2,,volumen
+titan,desinfectante,livy,botella,1l,0.86,lavanda,3.0,3,,volumen
+titan,desinfectante,livy,botella,1l,0.86,eucalipto,2.0,3,,volumen
+titan,jabon liquido,la original,botella,3800ml,6.08,frutos rojos,3.0,1,,volumen
+titan,jabon liquido,la original,botella,3800ml,6.08,avena,2.0,1,,volumen
+titan,jabon liquido,la original,botella,3800ml,6.08,almendra,2.0,1,,volumen
+titan,jabon liquido,la original,botella,3800ml,6.08,frutos rojos,4.0,2,,volumen
+titan,jabon liquido,la original,botella,3800ml,6.08,avena,1.0,2,,volumen
+titan,jabon liquido,la original,botella,3800ml,6.08,almendra,2.0,2,,volumen
+titan,jabon liquido,la original,doypack,1900ml,3.85,frutos rojos,4.0,ojos,,volumen
+titan,jabon liquido,la original,doypack,1l,3.0,frutos rojos,3.0,3,,volumen
+titan,jabon liquido,la original,doypack,1l,3.0,almendra,2.0,3,,volumen
+titan,jabon liquido,la original,doypack,500ml,2.08,frutos rojos,2.0,arriba,,volumen
+titan,jabon liquido,la original,doypack,500ml,2.08,almendra,3.0,arriba,,volumen
+titan,jabon liquido,family,botella,3785ml,6.4,manzanilla,1.0,ojos,,volumen
+titan,jabon liquido,dr clean,botella,1l,2.54,almendra,1.0,3,,volumen
+titan,jabon liquido,dr clean,botella,1l,2.54,durazno,1.0,3,,volumen
+titan,jabon liquido,clans,botella,500ml,1.79,frutos rojos,2.0,3,,volumen
+titan,jabon liquido,clans,botella,500ml,1.79,frutos rojos,1.0,ojos,,volumen
+titan,jabon liquido,simpli,doypack,500ml,1.99,berry sweet,2.0,arriba,,volumen
+titan,jabon liquido,isabella,doypack,650ml,1.55,fresas y granadas,2.0,arriba,,volumen
+titan,jabon liquido,gamma,botella,250ml,2.7,coco,2.0,arriba,,volumen
+titan,jabon liquido,gamma,botella,500ml,1.27,coco vainilla,1.0,arriba,,volumen
+titan,jabon liquido,gamma,botella,500ml,1.27,tea flowers,1.0,arriba,,volumen
+titan,jabon liquido,studio nunan,doypack,1l,3.86,mazana blosoom,1.0,arriba,,volumen
+titan,jabon liquido,jolly,botella,500ml,2.62,almendra,2.0,arriba,,volumen
+titan,jabon liquido,jolly,doypack,1l,3.8,floral,1.0,arriba,,volumen
+titan,cuchara mediana,prakti,paquete,,0.91,negra,2.0,ojos,,desconocido
+titan,cuchara grande,prakti,paquete,,0.93,negra,2.0,ojos,,desconocido
+titan,tenedor,la original,paquete,,0.59,blanco,2.0,ojos,,desconocido
+titan,tenedor,la original,paquete,,1.24,blanco,2.0,ojos,,desconocido
+coral,detergente líquido,kalipto,botella,5lt,14.94,con toque suavizante,1.0,ojos,11.20 descuento del 25%,volumen
+coral,detergente líquido,kalipto,botella,5lt,14.94,con bicarbonato,4.0,ojos,isla,volumen
+coral,detergente líquido,kalipto,botella,5lt,14.94,con bicarbonato,5.0,2,,volumen
+coral,detergente líquido,kalipto,botella,5lt,14.94,con bicarbonato,2.0,3,,volumen
+coral,detergente líquido,coral,botella,5lt,9.51,floral,6.0,3,6.21 descuento del 35%,volumen
+coral,detergente líquido,coral,botella,5lt,9.51,floral,6.0,ojos,isla,volumen
+coral,detergente líquido,coral,botella,5lt,9.51,floral,6.0,2,,volumen
+coral,detergente líquido,coral,botella,5lt,9.51,floral,6.0,1,,volumen
+coral,cloro,sanson,botella,4lt,5.04,original,7.0,3,3.28 descuento del 35%,volumen
+coral,cloro,sanson,botella,4lt,5.04,original,7.0,ojos,3.28 descuento del 35%,volumen
+coral,cloro,sanson,botella,4lt,5.04,original,7.0,2,3.28 descuento del 35%,volumen
+coral,cloro,sanson,botella,4lt,5.04,original,7.0,1,3.28 descuento del 35%,volumen
+coral,cloro,sanson,botella,1l,1.4,original,2.0,ojos,,volumen
+coral,cloro,sanson,botella,1l,1.4,original,2.0,3,,volumen
+coral,cloro,sanson,botella,1l,1.4,original,2.0,arriba,,volumen
+coral,cloro,sanson,botella,500ml,0.7,original,2.0,2,,volumen
+coral,cloro,estrella,botella,500ml,0.67,original,4.0,2,,volumen
+coral,cloro,estrella,botella,1l,1.01,original,4.0,ojos,,volumen
+coral,cloro,estrella,botella,1l,1.01,original,4.0,3,,volumen
+coral,cloro,estrella,botella,1l,1.01,original,4.0,arriba,,volumen
+coral,cloro,ozz,botella,3785ml,3.49,original,2.0,ojos,,volumen
+coral,cloro,el macho,botella,1l,1.36,original,1.0,ojos,,volumen
+coral,cloro,el macho,botella,1l,1.36,original,1.0,3,,volumen
+coral,cloro,el macho,botella,1l,1.36,original,1.0,arriba,,volumen
+coral,cloro,tips,botella,2lt,1.97,original,2.0,ojos,1.69 con el 14% de descuento,volumen
+coral,cloro,tips,botella,2lt,1.97,original,2.0,3,,volumen
+coral,cloro,tips,botella,2lt,1.97,limon,2.0,ojos,,volumen
+coral,cloro,tips,botella,2lt,1.97,limon,2.0,3,,volumen
+coral,cloro,tips,botella,1l,1.04,original,4.0,arriba,,volumen
+coral,cloro,tips,botella,1l,1.04,limon,2.0,arriba,,volumen
+coral,cloro,tips,botella,3800ml,3.49,original,2.0,ojos,3 con el 14% de descuento,volumen
+coral,cloro,coral,botella,2lt,2.46,original,8.0,ojos,1.60 con el 35% de descuento,volumen
+coral,cloro,coral,botella,2lt,2.46,original,8.0,2,1.60 con el 35% de descuento,volumen
+coral,cloro,coral,botella,1l,1.26,original,8.0,3,0.82 con el 35% de descuento,volumen
+coral,cloro,coral,botella,1l,1.26,original,8.0,arriba,0.82 con el 35% de descuento,volumen
+coral,cloro,clorox,botella,1040g,1.6,floral,2.0,arriba,,peso
+coral,cloro,clorox,botella,1040g,1.6,floral,2.0,3,,peso
+coral,cloro,clorox,botella,1040g,1.53,original,4.0,arriba,,peso
+coral,cloro,clorox,botella,1040g,1.53,original,4.0,3,,peso
+coral,cloro,clorox,botella,2lt,5.82,original,2.0,ojos,,volumen
+coral,cloro,clorox,botella,3800ml,4.87,original,2.0,2,,volumen
+coral,cloro,clorox,botella,500ml,0.88,original,2.0,1,,volumen
+coral,cloro,clorox,botella,500ml,0.88,limon,2.0,1,,volumen
+coral,desinfectante,lysol,doypack,1l,2.37,lavanda,3.0,1,,volumen
+coral,desinfectante,lava,botella,950ml,3.39,flor de manzana,4.0,1,,volumen
+coral,desinfectante,coral,botella,3785ml,7.61,manzana verde,5.0,1,,volumen
+coral,desinfectante,coral,botella,2lt,3.39,lavanda,8.0,2,2.37 con descuento del 30%,volumen
+coral,desinfectante,coral,botella,2lt,3.39,eucalipto,8.0,2,2.37 con descuento del 30%,volumen
+coral,desinfectante,coral,botella,2lt,3.39,lavanda,8.0,ojos,2.37 con descuento del 30%,volumen
+coral,desinfectante,coral,botella,2lt,3.39,eucalipto,8.0,ojos,2.37 con descuento del 30%,volumen
+coral,desinfectante,coral,botella,1l,1.7,lavanda,9.0,3,1.19 con descuento del 30%,volumen
+coral,desinfectante,coral,botella,1l,1.7,eucalipto,8.0,3,1.10 con descuento del 35%,volumen
+coral,desinfectante,master,botella,1l,1.82,canela,1.0,2,con esponja mixta,volumen
+coral,desinfectante,master,botella,1l,1.82,baby dreams,1.0,2,con esponja mixta,volumen
+coral,desinfectante,master,botella,1l,1.82,lavanda,1.0,ojos,1.46 con descuento del 20%,volumen
+coral,desinfectante,master,botella,1l,1.82,manzana con toques de fresia,1.0,ojos,,volumen
+coral,desinfectante,master,botella,2100ml,3.55,lavanda con toques de orquidea,1.0,2,2.84 con descuento del 20%,volumen
+coral,desinfectante,master,botella,1l,1.82,lavanda con toques de orquidea,1.0,3,1.46 con descuento del 20%,volumen
+coral,desinfectante,master,botella,1l,1.82,limon,1.0,arriba,1.46 con descuento del 20%,volumen
+coral,desinfectante,ozz,botella,1gl,5.12,eucalipto,2.0,1,,volumen
+coral,desinfectante,ozz,botella,1l,1.68,eucalipto,2.0,2,,volumen
+coral,desinfectante,ozz,botella,1l,1.68,floral,2.0,ojos,,volumen
+coral,desinfectante,el secreto de la abuela,botella,1l,2.01,eucalipto,1.0,2,1.71 con descuento del 15%,volumen
+coral,desinfectante,el secreto de la abuela,botella,1l,2.01,manzanilla coco,1.0,ojos,1.71 con descuento del 15%,volumen
+coral,desinfectante,el secreto de la abuela,botella,1l,2.01,lavanda,1.0,3,1.71 con descuento del 15%,volumen
+coral,desinfectante,el secreto de la abuela,botella,500ml,1.29,lavanda,1.0,arriba,,volumen
+coral,desinfectante,estrella,botella,900ml,2.0,eucalipto,1.0,2,,volumen
+coral,desinfectante,estrella,botella,900ml,2.0,floral,1.0,ojos,,volumen
+coral,desinfectante,estrella,botella,900ml,1.0,lavanda,1.0,3,,volumen
+coral,desinfectante,kalipto,botella,2lt,4.26,limon + verbena,1.0,2,,volumen
+coral,desinfectante,kalipto,doypack,500ml,1.17,manzana verde,4.0,arriba,,volumen
+coral,desinfectante,kalipto,botella,1l,2.31,manzana verde,1.0,3,,volumen
+coral,desinfectante,kalipto,botella,1l,2.3,limon + verbena,1.0,3,2.02 con descuento del 12%,volumen
+coral,desinfectante,kalipto,botella,1l,2.31,eucalipto,1.0,3,,volumen
+coral,desinfectante,kalipto,botella,1l,2.23,pasion frutal,1.0,3,,volumen
+coral,desinfectante,kalipto,botella,1l,2.3,frescura marina,1.0,3,1.95 con descuento del 15%,volumen
+coral,desinfectante,kalipto,botella,1l,2.16,naranja,2.0,3,,volumen
+coral,desinfectante,kalipto,botella,1l,2.31,manzana verde,1.0,ojos,,volumen
+coral,desinfectante,kalipto,botella,1l,2.3,limon + verbena,1.0,ojos,,volumen
+coral,desinfectante,kalipto,botella,1l,2.31,eucalipto,1.0,ojos,,volumen
+coral,desinfectante,kalipto,botella,1l,2.23,pasion frutal,1.0,ojos,,volumen
+coral,desinfectante,kalipto,botella,1l,2.3,frescura marina,1.0,ojos,,volumen
+coral,desinfectante,kalipto,botella,1l,2.16,naranja,2.0,ojos,,volumen
+coral,desinfectante,kalipto,botella,2lt,4.26,eucalipto,2.0,2,,volumen
+coral,desinfectante,kalipto,botella,2lt,4.26,frescura marina,1.0,2,,volumen
+coral,desinfectante,kalipto,botella,2lt,4.26,manzana verde,1.0,2,,volumen
+coral,desinfectante,kalipto,botella,2lt,4.2,naranja+ limon,1.0,2,,volumen
+coral,desinfectante,kalipto,botella,1gl,8.06,manzana verde,1.0,1,6.45 con el 20% de descuento,volumen
+coral,desinfectante,kalipto,botella,1gl,8.06,limon + verbena,2.0,1,,volumen
+coral,desinfectante,kalipto,botella,1gl,8.06,frescura marina,1.0,1,,volumen
+coral,desinfectante,kalipto,botella,1gl,8.06,naranja+limon,1.0,1,6.60 con el 15% de descuento,volumen
+coral,desinfectante,kalipto,botella,1gl,8.06,lavanda,2.0,1,6.45 con el 20% de descuento,volumen
+coral,desinfectante,kalipto,botella,2lt,4.2,naranja limon,1.0,2,,volumen
+coral,desinfectante,kalipto,botella,2lt,4.26,lavanda,1.0,2,,volumen
+coral,desinfectante,kalipto,botella,2lt,4.24,vainilla,3.0,2,3.60 con descuento 15%,volumen
+coral,desinfectante,kalipto,doypack,900ml,1.96,eucalipto,5.0,arriba,,volumen
+coral,desinfectante,sanson,botella,1l,2.0,manzana canela,1.0,3,,volumen
+coral,desinfectante,sanson,botella,1l,2.0,eucalipto,1.0,3,,volumen
+coral,desinfectante,sanson,botella,500ml,0.89,manzana canela,2.0,arriba,,volumen
+coral,desinfectante,estrella,botella,500ml,1.22,lavanda,1.0,arriba,,volumen
+coral,desinfectante,estrella,botella,500ml,1.22,fresa,1.0,arriba,,volumen
+coral,desinfectante,estrella,botella,500ml,1.22,eucalipto,1.0,arriba,,volumen
+coral,desinfectante,fabuloso,botella,3lt,6.13,floral,3.0,1,4.72 con el 23% de descuento,volumen
+coral,desinfectante,fabuloso,botella,5lt,9.87,lavanda,2.0,1,,volumen
+coral,desinfectante,fabuloso,botella,2lt,4.47,naranja,2.0,2,,volumen
+coral,desinfectante,fabuloso,botella,2lt,4.47,fresca primavera,1.0,2,,volumen
+coral,desinfectante,fabuloso,botella,500ml,1.18,floral,3.0,arriba,,volumen
+coral,desinfectante,fabuloso,botella,500ml,1.18,naranja,1.0,arriba,,volumen
+coral,desinfectante,fabuloso,botella,2lt,4.3,lavanda,2.0,2,,volumen
+coral,desinfectante,fabuloso,botella,2lt,4.3,naranja,2.0,2,,volumen
+coral,desinfectante,fabuloso,botella,1l,2.31,lavanda,2.0,ojos,,volumen
+coral,desinfectante,fabuloso,botella,1l,2.31,floral,2.0,ojos,,volumen
+coral,desinfectante,fabuloso,botella,1l,2.31,naranja,1.0,ojos,,volumen
+coral,desinfectante,fabuloso,botella,1l,2.31,aroma bebe,1.0,ojos,1.59 con el 31% de descuento,volumen
+coral,desinfectante,fabuloso,botella,1l,2.31,lavanda,2.0,3,,volumen
+coral,desinfectante,fabuloso,botella,1l,2.31,floral,2.0,3,,volumen
+coral,desinfectante,fabuloso,botella,1l,2.31,naranja,1.0,3,,volumen
+coral,desinfectante,fabuloso,botella,1l,2.31,aroma bebe,1.0,3,,volumen
+coral,desinfectante,fabuloso,botella,500ml,1.18,lavanda,3.0,arriba,,volumen
+coral,desinfectante,fabuloso,botella,500ml,1.18,naranja,3.0,arriba,,volumen
+coral,desinfectante,ajax,botella,2lt,4.63,limon,1.0,2,,volumen
+coral,desinfectante,ajax,botella,1l,2.54,naranja limon,1.0,ojos,,volumen
+coral,desinfectante,ajax,botella,1l,2.54,naranja limon,1.0,3,,volumen
+coral,desinfectante,olimpia,botella,1gl,7.85,manzana canela,2.0,1,,volumen
+coral,desinfectante,olimpia,botella,1gl,7.85,eucalipto,1.0,1,,volumen
+coral,desinfectante,olimpia,botella,2lt,3.64,lavanda,1.0,2,3.20 con el 12% de descuento,volumen
+coral,desinfectante,olimpia,botella,2lt,3.64,eucalipto,3.0,2,,volumen
+coral,desinfectante,olimpia,botella,2lt,3.91,vainilla,1.0,2,3.44 con el 12 % de descuento,volumen
+coral,desinfectante,olimpia,botella,1l,2.27,manzana canela,2.0,ojos,1.82 con el 20% de descuento,volumen
+coral,desinfectante,olimpia,botella,1l,2.27,eucalipto,2.0,ojos,,volumen
+coral,desinfectante,olimpia,botella,1l,2.27,vainilla,1.0,ojos,,volumen
+coral,desinfectante,olimpia,botella,1l,2.44,vainilla,2.0,3,2.07 con el 15% de descuento,volumen
+coral,desinfectante,olimpia,botella,1l,2.82,frescura herbal,3.0,arriba,2.40con el 15% de descuento,volumen
+coral,desinfectante,olimpia,botella,500ml,0.89,manzana canela,4.0,arriba,,volumen
+coral,desinfectante,olimpia,botella,1l,2.27,lavanda,2.0,3,1.93 con el 15% de descuento,volumen
+coral,desinfectante,olimpia,botella,1l,2.27,bosque de pino,2.0,3,,volumen
+coral,desinfectante,tips,botella,3785ml,6.95,citronela,1.0,1,5.15 con el 24% de descuento,volumen
+coral,desinfectante,tips,botella,3785ml,6.95,frutilla,1.0,1,5.15 con el 24% de descuento,volumen
+coral,desinfectante,tips,botella,3785ml,6.95,lavanda,1.0,1,5.15 con el 24% de descuento,volumen
+coral,desinfectante,tips,botella,3785ml,6.95,manzana verde,1.0,1,5.15 con el 24% de descuento,volumen
+coral,desinfectante,tips,botella,3785ml,6.95,eucalipto,1.0,1,5.15 con el 24% de descuento,volumen
+coral,desinfectante,tips,botella,2lt,4.06,citronela,1.0,2,2.84 con el 30% de descuento,volumen
+coral,desinfectante,tips,botella,2lt,4.06,manzana verde,1.0,2,2.84 con el 30% de descuento,volumen
+coral,desinfectante,tips,botella,2lt,4.06,brisa marina,1.0,2,2.84 con el 30% de descuento,volumen
+coral,desinfectante,tips,botella,2lt,4.06,manzana canela,1.0,2,2.84 con el 30% de descuento,volumen
+coral,desinfectante,tips,botella,2lt,4.06,lavanda,1.0,2,2.84 con el 30% de descuento,volumen
+coral,desinfectante,tips,botella,2lt,4.06,frutilla,1.0,2,2.84 con el 30% de descuento,volumen
+coral,desinfectante,tips,botella,2lt,4.06,manzana verde,3.0,ojos,2.84 con el 30% de descuento,volumen
+coral,desinfectante,tips,botella,2lt,4.06,brisa marina,2.0,ojos,2.84 con el 30% de descuento,volumen
+coral,desinfectante,tips,botella,2lt,4.06,manzana canela,2.0,ojos,2.84 con el 30% de descuento,volumen
+coral,desinfectante,tips,botella,1l,2.2,frutilla,1.0,3,1.80 con el 18% de descuento,volumen
+coral,desinfectante,tips,botella,1l,2.2,eucalipto,1.0,3,1.80 con el 18% de descuento,volumen
+coral,desinfectante,tips,botella,1l,2.2,citronela,2.0,3,1.80 con el 18% de descuento,volumen
+coral,desinfectante,tips,botella,1l,2.2,lavanda,2.0,3,1.80 con el 18% de descuento,volumen
+coral,desinfectante,tips,botella,1l,2.2,floral,2.0,3,1.80 con el 18% de descuento,volumen
+coral,desinfectante,tips,botella,500ml,1.08,frutilla,2.0,arriba,,volumen
+coral,desinfectante,tips,botella,500ml,1.08,eucalipto,1.0,arriba,,volumen
+coral,desinfectante,tips,botella,500ml,1.08,manzana canela,1.0,arriba,,volumen
+coral,desinfectante,tips,botella,500ml,1.08,lavanda,1.0,arriba,,volumen
+coral,desinfectante,tips,botella,500ml,1.08,floral,2.0,arriba,,volumen
+coral,desinfectante,tips,botella,500ml,1.08,brisa marina,1.0,arriba,,volumen
+coral,jabon,dr clean,botella,2lt,4.57,manzana verde,3.0,1,,volumen
+coral,jabon,dr clean,botella,2lt,4.57,durazno,1.0,1,,volumen
+coral,jabon,dr clean,botella,2lt,4.57,almendra,1.0,1,,volumen
+coral,jabon,dr clean,doypack,1.9lt,3.8,kiwi melon,1.0,2,,volumen
+coral,jabon,dr clean,doypack,1.9lt,3.8,coco vainilla,3.0,2,,volumen
+coral,jabon,dr clean,doypack,1.9lt,3.66,almendra,4.0,ojos,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,durazno,4.0,3,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,almendra,4.0,3,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,manzana verde,5.0,3,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,durazno,4.0,arriba,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,almendra,4.0,arriba,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,manzana verde,5.0,arriba,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,almendra,2.0,ojos,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,durazno,2.0,ojos,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,manzana,2.0,ojos,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,almendra,2.0,2,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,durazno,2.0,2,,volumen
+coral,jabon,dr clean,botella,400ml,2.36,manzana,2.0,2,,volumen
+coral,jabon,dr clean,doypack,1.9lt,3.8,kiwi melon,1.0,1,,volumen
+coral,jabon,dr clean,doypack,1.9lt,3.8,coco vainilla,1.0,ojos,,volumen
+coral,jabon,dr clean,botella,265ml,4.39,sweet snow,2.0,arriba,,volumen
+coral,jabon,sahara,doypack,2lt,3.35,almendra,1.0,1,,volumen
+coral,jabon,sahara,doypack,2lt,3.35,frutos rojos,1.0,1,,volumen
+coral,jabon,kiyu,doypack,1l,2.58,frutos rojos,1.0,2,,volumen
+coral,jabon,kiyu,doypack,1l,2.54,violeta silvestre,1.0,2,,volumen
+coral,jabon,kiyu,doypack,1l,2.58,naranja fresh,1.0,2,,volumen
+coral,jabon,kiyu,doypack,1l,2.58,brisa marina,1.0,ojos,,volumen
+coral,jabon,kiyu,doypack,1l,2.58,crema,1.0,ojos,,volumen
+coral,jabon,kiyu,doypack,1l,2.58,frutos rojos,1.0,ojos,,volumen
+coral,jabon,kiyu,botella,1gl,9.83,almendra,2.0,1,,volumen
+coral,jabon,recamier,doypack,1l,3.68,coco vainilla,1.0,2,,volumen
+coral,jabon,dr clean,botella,1gl,8.27,durazno,2.0,1,,volumen
+coral,jabon,coral,doypack,1l,3.25,citrico,2.0,2,,volumen
+coral,jabon,coral,doypack,1l,3.22,flores,1.0,2,,volumen
+coral,jabon,coral,doypack,1l,3.25,citrico,2.0,ojos,,volumen
+coral,jabon,coral,doypack,1l,3.22,flores,2.0,ojos,,volumen
+coral,jabon,coral,doypack,1l,3.25,citrico,2.0,3,,volumen
+coral,jabon,coral,doypack,1l,3.22,flores,2.0,3,,volumen
+coral,jabon,coral,doypack,1l,3.25,citrico,2.0,arriba,,volumen
+coral,jabon,coral,doypack,1l,3.22,flores,2.0,arriba,,volumen
+coral,jabon,coral,botella,1gl,10.29,citrico,3.0,1,,volumen
+coral,jabon,coral,botella,1gl,10.29,manzna canela,2.0,1,,volumen
+coral,jabon,coral,botella,375ml,3.72,flores,2.0,2,,volumen
+coral,jabon,coral,botella,375ml,3.72,frutos rojos,1.0,2,,volumen
+coral,jabon,coral,botella,375ml,3.67,fresas y granadas,1.0,2,,volumen
+coral,jabon,coral,botella,375ml,3.72,manzana verde,2.0,ojos,,volumen
+coral,jabon,coral,botella,375ml,3.72,citricos,1.0,ojos,,volumen
+coral,jabon,coral,botella,375ml,3.67,limon,1.0,ojos,,volumen
+coral,jabon,coral,botella,375ml,3.72,manzana verde,1.0,3,,volumen
+coral,jabon,coral,botella,375ml,3.72,citricos,1.0,3,,volumen
+coral,jabon,coral,botella,375ml,3.67,limon,1.0,3,,volumen
+coral,jabon,coral,botella,375ml,3.67,flores,1.0,3,,volumen
+coral,jabon,coral,botella,220ml,2.36,limon,1.0,3,,volumen
+coral,jabon,coral,botella,220ml,2.36,manzana,1.0,3,,volumen
+coral,jabon,coral,botella,220ml,2.37,flores,1.0,3,,volumen
+coral,jabon,coral,botella,220ml,2.3,citricos,1.0,3,,volumen
+coral,jabon,coral,botella,220ml,2.36,limon,1.0,arriba,,volumen
+coral,jabon,coral,botella,220ml,2.36,manzana,1.0,arriba,,volumen
+coral,jabon,coral,botella,220ml,2.37,flores,1.0,arriba,,volumen
+coral,jabon,coral,botella,220ml,2.3,frutos rojos,1.0,arriba,,volumen
+coral,jabon,ninacuro,doypack,500ml,3.73,brisa de naranja,2.0,2,2.98 con el 20% de descuento,volumen
+coral,jabon,ninacuro,botella,450ml,3.73,manzanilla,2.0,3,,volumen
+coral,jabon,ninacuro,botella,450ml,3.73,jardin de orquideas,2.0,3,,volumen
+coral,jabon,ninacuro,botella,450ml,3.73,coco almendras,2.0,3,,volumen
+coral,jabon,protex,doypack,500ml,4.0,avena,3.0,ojos,,volumen
+coral,jabon,protex,doypack,800ml,5.9,avena,3.0,ojos,,volumen
+coral,jabon,isabella,doypack,1l,2.39,fresas y granadas,1.0,ojos,,volumen
+coral,jabon,isabella,doypack,1l,2.39,avena miel,1.0,3,,volumen
+coral,jabon,isabella,doypack,1l,2.39,almendra,1.0,arriba,,volumen
+coral,jabon,misty,doypack,900ml,5.01,tropical blosson,1.0,3,,volumen
+coral,jabon,misty,doypack,900ml,5.01,almond milk,1.0,3,,volumen
+coral,jabon,misty,doypack,400ml,4.32,mountain mist,1.0,arriba,,volumen
+coral,jabon,misty,doypack,400ml,4.32,tropical blosson,1.0,3,,volumen
+coral,jabon,esencial,doypack,500ml,2.45,dragon fruit,1.0,arriba,,volumen
+coral,jabon,esencial,doypack,500ml,2.62,lavanda,1.0,arriba,,volumen
+coral,jabon,purific,botella,400ml,4.14,brisa marina,1.0,arriba,,volumen
+coral,jabon,jolly,botella,500ml,2.51,citrus,1.0,arriba,,volumen
+coral,jabon,jolly,botella,500ml,2.51,almendra vainilla,3.0,arriba,,volumen
+coral,jabon,maremma,botella,750ml,3.14,jazmin,1.0,ojos,,volumen
+coral,jabon,maremma,botella,750ml,3.14,violeta,1.0,ojos,,volumen
+aki,detergente líquido,ciclón,botella,3lt,10.32,floral,6.0,arriba,,volumen
+aki,detergente líquido,ciclón,doypack,2.5lt,5.58,floral,2.0,3,,volumen
+aki,detergente líquido,ciclón,doypack,2.5lt,5.58,con suavizante,2.0,3,,volumen
+aki,detergente líquido,ciclón,doypack,1.3lt,4.89,limon,2.0,3,,volumen
+aki,detergente líquido,ciclón,doypack,2.5lt,5.58,floral,2.0,ojos,,volumen
+aki,detergente líquido,ciclón,doypack,2.5lt,5.58,con suavizante,2.0,ojos,,volumen
+aki,detergente líquido,ciclón,doypack,1.3lt,4.89,limon,2.0,ojos,,volumen
+aki,detergente líquido,ciclón,doypack,1.8lt,6.44,floral,2.0,ojos,,volumen
+aki,detergente líquido,ciclón,doypack,1.8lt,6.44,con suavizante,2.0,ojos,,volumen
+aki,detergente líquido,ciclón,doypack,1.3lt,4.89,floral,2.0,2,,volumen
+aki,detergente líquido,ciclón,doypack,1.3lt,4.89,con suavizante,2.0,2,,volumen
+aki,detergente líquido,ciclón,doypack,900ml,2.7,floral,2.0,1,,volumen
+aki,detergente líquido,ciclón,doypack,900ml,2.7,con suavizante,2.0,1,,volumen
+aki,detergente líquido,cierto,doypack,1l,3.04,floral,2.0,2,,volumen
+aki,detergente líquido,cierto,doypack,1l,3.04,floral,2.0,ojos,,volumen
+aki,detergente líquido,aki,botella,3lt,7.5,con suavizante,1.0,arriba,,volumen
+aki,detergente líquido,aki,botella,2lt,5.99,con suavizante,2.0,3,,volumen
+aki,detergente líquido,aki,botella,2lt,5.99,con suavizante,1.0,arriba,,volumen
+aki,detergente líquido,deja,doypack,1.8lt,4.28,floral,4.0,3,,volumen
+aki,detergente líquido,deja,doypack,1.8lt,4.28,floral,5.0,ojos,,volumen
+aki,detergente líquido,deja,doypack,500ml,2.47,floral,4.0,ojos,,volumen
+aki,detergente líquido,deja,doypack,500ml,2.47,floral,1.0,2,,volumen
+aki,detergente líquido,deja,doypack,500ml,2.47,con suavizante,3.0,2,,volumen
+aki,detergente líquido,deja,doypack,100ml,0.9,floral,4.0,1,,volumen
+aki,detergente líquido,garza,doypack,1l,3.75,floral,2.0,1,,volumen
+aki,detergente líquido,kalipto,doypack,1.8lt,4.71,con bicarbonato,3.0,2,,volumen
+aki,detergente líquido,kalipto,botella,5lt,10.49,con bicarbonato,2.0,ojos,,volumen
+aki,detergente líquido,alquimyst,botella,1gl,8.99,floral,2.0,arriba,,volumen
+aki,detergente líquido,alquimyst,botella,1l,2.99,floral,3.0,arriba,,volumen
+aki,desinfectante,la original,botella,1l,0.84,lavanda,5.0,1,,volumen
+aki,desinfectante,la original,botella,1l,0.84,eucalipto,3.0,1,,volumen
+aki,cloro,la original,botella,1l,0.54,original,4.0,1,,volumen
+aki,cloro,clorox,botella,1gl,3.61,original,6.0,2,,volumen
+aki,cloro,clorox,botella,2050g,1.82,original,6.0,ojos,,peso
+aki,cloro,clorox,botella,1040g,1.58,floral,4.0,ojos,,peso
+aki,cloro,clorox,botella,1040g,1.58,limon,1.0,ojos,,peso
+aki,cloro,clorox,botella,1040g,1.58,original,4.0,ojos,,peso
+aki,cloro,clorox,botella,1040g,1.58,floral,4.0,3,,peso
+aki,cloro,clorox,botella,1040g,1.58,limon,2.0,3,,peso
+aki,cloro,clorox,botella,1040g,1.58,original,4.0,3,,peso
+aki,cloro,clorox,botella,500ml,0.9,original,7.0,arriba,,volumen
+aki,cloro,clorox,botella,500ml,0.9,limon,4.0,arriba,,volumen
+aki,cloro,la original,botella,1gl,2.85,limon,3.0,2,,volumen
+aki,cloro,la original,botella,1gl,2.4,original,1.0,2,,volumen
+aki,cloro,la original,botella,1gl,2.4,original,4.0,ojos,,volumen
+aki,cloro,la original,botella,2lt,1.54,original,4.0,ojos,,volumen
+aki,cloro,la original,botella,1l,0.54,original,5.0,3,,volumen
+aki,cloro,la original,botella,500ml,0.49,original,4.0,arriba,,volumen
+aki,cloro,livy,botella,1l,0.66,original,2.0,arriba,,volumen
+aki,cloro,livy,botella,1l,0.66,original,1.0,3,,volumen
+aki,cloro,fast,botella,4lt,2.99,limon,3.0,1,,volumen
+aki,cloro,fast,botella,4lt,2.69,original,3.0,2,,volumen
+aki,cloro,,botella,1gl,3.19,original,2.0,3,,volumen
+aki,cloro,,botella,2lt,1.89,original,2.0,arriba,,volumen
+aki,cloro,sanson,botella,4lt,3.78,original,2.0,1,,volumen
+aki,cloro,sanson,botella,4lt,3.78,original,2.0,ojos,,volumen
+aki,cloro,tips,botella,2lt,1.7,original,5.0,ojos,,volumen
+aki,cloro,tips,botella,1l,0.95,original,3.0,3,,volumen
+aki,cloro,tips,botella,1l,0.95,limon,3.0,3,,volumen
+aki,cloro,tips,botella,3800ml,2.99,original,2.0,2,,volumen
+aki,cloro,gama,botella,1l,0.59,original,2.0,3,,volumen
+aki,cloro,aki,botella,2lt,1.99,limon,2.0,ojos,,volumen
+aki,desinfectante,lysol,doypack,800ml,2.5,lavanda,1.0,1,,volumen
+aki,desinfectante,kalipto,doypack,500ml,1.17,manzana verde,1.0,1,,volumen
+aki,desinfectante,kalipto,botella,1gl,7.66,eucalipto,2.0,2,,volumen
+aki,desinfectante,kalipto,botella,1gl,4.21,lavanda,2.0,2,,volumen
+aki,desinfectante,kalipto,botella,2lt,4.21,eucalipto,2.0,ojos,,volumen
+aki,desinfectante,kalipto,botella,2lt,4.21,frescura marina,1.0,ojos,,volumen
+aki,desinfectante,kalipto,botella,2lt,4.21,manzana verde,1.0,ojos,,volumen
+aki,desinfectante,kalipto,botella,1l,1.89,eucalipto,2.0,3,,volumen
+aki,desinfectante,kalipto,botella,1l,2.06,mascotas,2.0,3,,volumen
+aki,desinfectante,kalipto,botella,1l,2.35,naranja,2.0,3,,volumen
+aki,desinfectante,kalipto,botella,1l,1.95,frescura marina,2.0,3,,volumen
+aki,desinfectante,kalipto,botella,1l,2.3,con bicarbonato,1.0,arriba,,volumen
+aki,desinfectante,kalipto,botella,1l,1.89,vainilla,4.0,arriba,,volumen
+aki,desinfectante,kalipto,botella,1l,2.3,pasion frutal,1.0,arriba,,volumen
+aki,desinfectante,kalipto,botella,1l,2.3,manzana verde,1.0,arriba,,volumen
+aki,desinfectante,kalipto,botella,1l,1.84,lavanda,1.0,arriba,,volumen
+aki,desinfectante,aki,doypack,900ml,1.48,lavanda,2.0,1,,volumen
+aki,desinfectante,aki,botella,1gl,5.99,lavanda,1.0,2,,volumen
+aki,desinfectante,aki,botella,1gl,5.99,naranja limon,1.0,2,,volumen
+aki,desinfectante,aki,botella,900ml,1.5,eucalipto,3.0,arriba,,volumen
+aki,desinfectante,aki,botella,900ml,1.69,naranja limon,1.0,ojos,,volumen
+aki,desinfectante,aki,botella,900ml,1.69,manzana verde,1.0,ojos,,volumen
+aki,desinfectante,aki,botella,900ml,1.5,manzana canela,2.0,ojos,,volumen
+aki,desinfectante,aki,botella,900ml,1.69,lavanda,1.0,ojos,,volumen
+aki,desinfectante,aki,botella,900ml,1.5,eucalipto,2.0,3,,volumen
+aki,desinfectante,aki,botella,900ml,1.5,lavanda,2.0,3,,volumen
+aki,desinfectante,aki,botella,900ml,1.5,lavanda,2.0,arriba,,volumen
+aki,desinfectante,aki,botella,900ml,1.5,floral,2.0,3,,volumen
+aki,desinfectante,aki,botella,1.8lt,2.89,eucalipto,2.0,3,,volumen
+aki,desinfectante,aki,botella,1.8lt,2.89,manzana verde,1.0,3,,volumen
+aki,desinfectante,aki,botella,1.8lt,2.89,lavanda,2.0,ojos,,volumen
+aki,desinfectante,aki,botella,1.8lt,2.89,manzana canela,1.0,ojos,,volumen
+aki,desinfectante,aki,botella,1gl,3.39,naranja limon,2.0,2,,volumen
+aki,desinfectante,aki,botella,1gl,5.39,eucalipto,2.0,1,,volumen
+aki,desinfectante,aki,botella,2lt,2.89,lavanda,1.0,1,,volumen
+aki,desinfectante,aki,botella,2lt,2.89,manzana verde,1.0,1,,volumen
+aki,desinfectante,aki,botella,2lt,2.89,floral,1.0,2,,volumen
+aki,desinfectante,aki,botella,2lt,2.89,lavanda,1.0,2,,volumen
+aki,desinfectante,aki,botella,2lt,2.89,manzana,1.0,2,,volumen
+aki,desinfectante,aki,botella,1l,1.9,lavanda,1.0,arriba,,volumen
+aki,desinfectante,aki,botella,1l,1.9,eucalipto,1.0,arriba,,volumen
+aki,desinfectante,fabuloso,botella,3lt,6.06,naranja,2.0,1,,volumen
+aki,desinfectante,fabuloso,botella,3lt,6.13,lavanda,2.0,1,,volumen
+aki,desinfectante,olimpia,botella,900ml,2.1,vainilla,4.0,arriba,,volumen
+aki,desinfectante,olimpia,botella,900ml,2.1,eucalipto,2.0,3,,volumen
+aki,desinfectante,olimpia,botella,900ml,2.1,vainilla,2.0,3,,volumen
+aki,desinfectante,olimpia,botella,900ml,1.84,manzana canela,2.0,3,,volumen
+aki,desinfectante,olimpia,botella,900ml,1.95,flor de manzana,3.0,ojos,,volumen
+aki,desinfectante,olimpia,botella,900ml,2.3,lavanda,3.0,ojos,,volumen
+aki,desinfectante,olimpia,botella,900ml,2.4,frescura herbal,2.0,2,,volumen
+aki,desinfectante,olimpia,botella,900ml,2.45,mascotas,3.0,2,,volumen
+aki,desinfectante,olimpia,botella,2lt,3.48,vainilla y avellana,1.0,2,,volumen
+aki,desinfectante,olimpia,botella,2lt,2.99,naranja,3.0,2,,volumen
+aki,desinfectante,la original,botella,5lt,4.39,citronella y eucalipto,1.0,1,,volumen
+aki,desinfectante,la original,botella,900ml,0.81,brisa marina,1.0,1,,volumen
+aki,desinfectante,la original,botella,900ml,0.81,eucalipto,1.0,2,,volumen
+aki,desinfectante,goldery,doypack,1l,1.38,lavanda,1.0,1,,volumen
+aki,desinfectante,goldery,doypack,500ml,0.81,limon,1.0,1,,volumen
+aki,desinfectante,huracan,botella,250ml,0.46,lavanda,1.0,1,,volumen
+aki,desinfectante,sani,botella,1l,2.07,manzana canela,1.0,1,,volumen
+aki,desinfectante,tips,botella,2lt,3.09,lavanda,2.0,1,,volumen
+aki,desinfectante,tips,botella,2lt,3.09,frutilla,1.0,1,,volumen
+aki,desinfectante,tips,botella,2lt,3.09,manzana verde,1.0,1,,volumen
+aki,desinfectante,tips,botella,1gl,5.7,frutilla,1.0,2,,volumen
+aki,desinfectante,tips,botella,1gl,5.7,manzana verde,1.0,2,,volumen
+aki,desinfectante,tips,botella,1gl,5.7,frutilla,1.0,ojos,,volumen
+aki,desinfectante,tips,botella,1gl,5.7,manzana verde,1.0,ojos,,volumen
+aki,desinfectante,tips,botella,1l,1.79,manzana verde,2.0,3,,volumen
+aki,desinfectante,tips,botella,1l,1.79,frutilla,2.0,3,,volumen
+aki,desinfectante,tips,botella,1l,1.79,brisa marina,2.0,3,,volumen
+aki,desinfectante,gama,botella,1l,0.99,lavanda,2.0,2,,volumen
+aki,jabon liquido,dr clean,botella,3.8l,7.53,manzana verde,1.0,1,,volumen
+aki,jabon liquido,dr clean,botella,3.8l,7.53,almendra,1.0,1,,volumen
+aki,jabon liquido,dr clean,doypack,1.9l,4.0,durazno,2.0,2,,volumen
+aki,jabon liquido,dr clean,doypack,1.9l,4.0,almendra,1.0,2,,volumen
+aki,jabon liquido,dr clean,botella,2lt,3.56,durazno,2.0,ojos,,volumen
+aki,jabon liquido,dr clean,botella,2lt,3.09,frutos rojos,1.0,ojos,,volumen
+aki,jabon liquido,dr clean,botella,400ml,2.61,manzana,3.0,arriba,,volumen
+aki,jabon liquido,la original,botella,1gl,7.23,almendra,2.0,1,,volumen
+aki,jabon liquido,la original,botella,1gl,7.23,frutos rojos,2.0,1,,volumen
+aki,jabon liquido,la original,botella,1gl,7.23,avena,1.0,1,,volumen
+aki,jabon liquido,la original,doypack,1.9lt,3.85,frutos rojos,2.0,2,,volumen
+aki,jabon liquido,la original,doypack,1l,3.0,frutos rojos,2.0,ojos,,volumen
+aki,jabon liquido,la original,doypack,1l,3.0,almendra,1.0,ojos,,volumen
+aki,jabon liquido,la original,doypack,500ml,2.08,frutos rojos,3.0,3,,volumen
+aki,jabon liquido,la original,doypack,500ml,2.08,almendra,1.0,3,,volumen
+aki,jabon liquido,aki,doypack,500ml,2.29,almendra,4.0,3,,volumen
+aki,jabon liquido,gama,botella,500ml,1.27,coco vainilla,3.0,arriba,,volumen
+aki,jabon liquido,gama,botella,500ml,1.27,yogurt arandanos,3.0,arriba,,volumen
+aki,jabon liquido,gama,botella,250ml,2.99,coco vainilla,4.0,ojos,2.54 desceuento del 35%,volumen
+aki,jabon liquido,gama,botella,250ml,2.99,cherry blosoom,3.0,ojos,,volumen
+aki,jabon liquido,gama,doypack,1l,1.99,manzanilla,3.0,ojos,,volumen
+aki,jabon liquido,gama,doypack,500ml,1.48,cherry blosoom,3.0,3,1.26 con el 15% de descuento,volumen
+aki,jabon liquido,jolly,doypack,1l,4.01,almendra,2.0,1,,volumen
+aki,jabon liquido,jolly,doypack,1l,4.01,floral,1.0,2,,volumen
+aki,jabon liquido,jolly,doypack,1l,4.01,citrus,1.0,2,,volumen
+aki,jabon liquido,jolly,doypack,1l,4.01,floral,3.0,ojos,,volumen
+aki,jabon liquido,jolly,botella,500ml,2.62,almendra,2.0,3,,volumen
+aki,jabon liquido,jolly,botella,500ml,2.62,citrus,5.0,ojos,,volumen
+aki,jabon liquido,jolly,botella,500ml,2.62,floral,2.0,ojos,,volumen
+aki,jabon liquido,misty,doypack,400ml,3.0,flor de plumeria,3.0,2,,volumen
+aki,jabon liquido,misty,doypack,900ml,5.06,flor de plumeria,2.0,ojos,,volumen
+aki,jabon liquido,ballerina,doypack,900ml,3.44,aceite de coco y jazmin,1.0,2,,volumen
+aki,jabon liquido,ballerina,doypack,900ml,3.44,avena,1.0,2,,volumen
+aki,jabon liquido,ballerina,doypack,900ml,3.44,yogurt arandanos,2.0,2,,volumen
+aki,jabon liquido,isabella,doypack,650ml,1.55,pera silvestre,2.0,2,,volumen
+aki,jabon liquido,isabella,doypack,650ml,1.55,fresas granadas,4.0,1,,volumen
+aki,jabon liquido,isabella,doypack,1l,2.29,pera silvestre,3.0,ojos,,volumen
+aki,jabon liquido,isabella,doypack,1l,2.29,pera silvestre,3.0,1,,volumen
+aki,jabon liquido,isabella,botella,400ml,2.11,fresas y granadas,4.0,3,,volumen
+aki,jabon liquido,clans,botella,500ml,1.79,avena,2.0,3,,volumen
+aki,jabon liquido,family,doypack,1.9lt,3.88,avena,2.0,ojos,,volumen
+aki,jabon liquido,simply,doypack,900ml,1.99,vainilla,3.0,ojos,,volumen
+supermaxi,jabon liquido,jolly,doypack,1l,3.34,floral,4.0,1,,volumen
+supermaxi,jabon liquido,jolly,doypack,1l,3.34,floral,4.0,2,,volumen
+supermaxi,jabon liquido,jolly,doypack,1l,3.34,floral,4.0,ojos,,volumen
+supermaxi,jabon liquido,jolly,doypack,1l,3.34,floral,4.0,3,,volumen
+supermaxi,jabon liquido,jolly,doypack,1l,3.34,floral,4.0,arriba,,volumen
+supermaxi,jabon liquido,protex,doypack,800ml,5.89,avena +prebiotico,3.0,1,,volumen
+supermaxi,jabon liquido,protex,doypack,800ml,5.89,avena +prebiotico,3.0,2,,volumen
+supermaxi,jabon liquido,protex,doypack,800ml,5.89,avena +prebiotico,3.0,ojos,,volumen
+supermaxi,jabon liquido,protex,doypack,800ml,5.89,avena +prebiotico,3.0,3,,volumen
+supermaxi,jabon liquido,ultracare,doypack,1l,2.33,vainilla,4.0,arriba,,volumen
+supermaxi,jabon liquido,ultracare,doypack,1l,2.06,citrus,3.0,1,,volumen
+supermaxi,jabon liquido,ultracare,doypack,1l,2.33,vainilla,4.0,3,,volumen
+supermaxi,jabon liquido,ultracare,doypack,1l,2.33,vainilla,4.0,ojos,,volumen
+supermaxi,jabon liquido,ultracare,doypack,1l,2.33,vainilla,4.0,2,,volumen
+supermaxi,jabon liquido,ultracare,botella,200ml,2.89,coco lima,7.0,ojos,,volumen
+supermaxi,jabon liquido,ultracare,botella,200ml,2.89,red berries,3.0,ojos,,volumen
+supermaxi,jabon liquido,ultracare,botella,500ml,2.43,blossom citrus,8.0,ojos,,volumen
+supermaxi,jabon liquido,ultracare,botella,500ml,1.64,vainilla,3.0,ojos,,volumen
+supermaxi,jabon liquido,ultracare,botella,500ml,1.64,vainilla,3.0,arriba,,volumen
+supermaxi,jabon liquido,ultracare,botella,500ml,2.29,japanese citrus,3.0,arriba,,volumen
+supermaxi,jabon liquido,ultracare,botella,500ml,2.43,japanese citrus,5.0,ojos,,volumen
+supermaxi,jabon liquido,recamier,doypack,500ml,2.09,avena y miel,3.0,2,,volumen
+supermaxi,jabon liquido,recamier,doypack,1l,3.65,avena y miel,3.0,1,,volumen
+supermaxi,jabon liquido,misty,botella,230ml,4.5,golden elixir,5.0,ojos,,volumen
+supermaxi,jabon liquido,clans,botella,500ml,1.6,avena,2.0,ojos,,volumen
+supermaxi,jabon liquido,clans,botella,500ml,1.6,cherry merlot,2.0,ojos,,volumen
+supermaxi,jabon liquido,clans,botella,500ml,1.6,frutos rojos,2.0,ojos,,volumen
+supermaxi,jabon liquido,esencial,doypack,500ml,2.7,cherry blosom,2.0,2,,volumen
+supermaxi,jabon liquido,esencial,doypack,500ml,2.7,red berrues and dragon fuit,2.0,2,,volumen
+supermaxi,jabon liquido,esencial,doypack,1.5lt,3.25,cherry blosom,3.0,1,,volumen
+supermaxi,jabon liquido,esencial,botella,500ml,3.19,red berrues and dragon fuit,3.0,arriba,,volumen
+supermaxi,jabon liquido,esencial,botella,500ml,3.19,vainilla & cherry blossom,3.0,arriba,,volumen
+supermaxi,jabon liquido,lule,doypack,1l,6.03,mistica buttea,1.0,1,,volumen
+supermaxi,jabon liquido,dr clean,botella,2lt,3.29,almendra,2.0,1,,volumen
+supermaxi,jabon liquido,dr clean,botella,2lt,3.29,manzanilla,1.0,1,,volumen
+supermaxi,jabon liquido,dr clean,botella,2lt,3.29,almendra,1.0,2,,volumen
+supermaxi,jabon liquido,dr clean,botella,2lt,3.29,manzanilla,1.0,2,,volumen
+supermaxi,jabon liquido,dr clean,botella,2lt,3.29,durazno,1.0,2,,volumen
+supermaxi,jabon liquido,luana,botella,500ml,1.35,tea & flower,4.0,arriba,,volumen
+hipermaxi,desinfectante,tips,botella,1l,1.78,lavanda,7.0,1,,volumen
+hipermaxi,desinfectante,tips,botella,1l,1.78,lavanda,7.0,2,,volumen
+hipermaxi,desinfectante,tips,botella,1l,1.78,lavanda,7.0,ojos,,volumen
+hipermaxi,desinfectante,tips,botella,1l,1.78,manzana canela,7.0,3,,volumen
+hipermaxi,desinfectante,tips,botella,2lt,3.11,lavanda,0.0,isla,,volumen
+hipermaxi,desinfectante,tips,botella,1l,1.81,citronela,0.0,isla,,volumen
+hipermaxi,desinfectante,tips,botella,2lt,3.11,citronela,0.0,isla,,volumen
+hipermaxi,desinfectante,tips,botella,2lt,3.11,manzana canela,0.0,isla,,volumen
+hipermaxi,desinfectante,olimpia,botella,900ml,2.05,vainilla y avellanas,0.0,isla,,volumen
+hipermaxi,desinfectante,olimpia,botella,1gl,8.54,vainilla y avellanas,0.0,isla,,volumen
+hipermaxi,desinfectante,olimpia,botella,1.8lt,3.35,vainilla y avellanas,0.0,isla,,volumen
+hipermaxi,detergente liquido,mi comisariato,botella,2.9lt,7.19,poder enzimatico,0.0,isla,,volumen
+hipermaxi,detergente liquido,mi comisariato,doypack,900ml,2.09,floral,3.0,ojos,,volumen
+hipermaxi,detergente liquido,fabuloso,botella,5lt,11.7,floral,0.0,isla,,volumen
+hipermaxi,detergente liquido,max,botella,5lt,10.7,con bicarbonato,0.0,isla,,volumen
+hipermaxi,detergente liquido,deja,doypack,500ml,5.78,floral,3.0,ojos,,volumen
+hipermaxi,detergente liquido,deja,botella,3lt,7.89,floral,3.0,2,,volumen
+hipermaxi,detergente liquido,foca,botella,1l,3.17,floral,2.0,2,,volumen
+hipermaxi,detergente liquido,foca,botella,10lt,22.9,floral,1.0,1,,volumen
+hipermaxi,detergente liquido,zote,botella,1l,4.15,floral,1.0,2,,volumen
+hipermaxi,detergente liquido,ciclon,botella,5lt,11.39,floral,3.0,1,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,2.5lt,6.29,floral,4.0,2,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,2.5lt,6.29,con suavizante,3.0,2,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,1.8lt,5.09,floral,2.0,ojos,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,1.8lt,5.09,con suavizante,2.0,ojos,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,1.8lt,5.09,con quitamanchas,2.0,3,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,1.8lt,5.09,con quitamanchas,2.0,arriba,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,1.3lt,4.66,citrico,3.0,ojos,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,1.3lt,4.66,floral,3.0,ojos,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,300ml,0.89,floral,5.0,3,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,300ml,0.89,quitamanchas,2.0,3,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,300ml,0.89,floral,6.0,arriba,,volumen
+hipermaxi,detergente liquido,ciclon,doypack,300ml,0.89,quitamanchas,2.0,arriba,,volumen
+hipermaxi,detergente liquido,kalipt,botella,5lt,10.7,con bicarbonato,2.0,1,,volumen
+hipermaxi,detergente liquido,kalipt,botella,5lt,10.7,con bicarbonato,2.0,2,,volumen
+hipermaxi,detergente liquido,kalipt,botella,5lt,11.95,con suavizante,2.0,1,,volumen
+hipermaxi,detergente liquido,kalipt,botella,5lt,11.95,con suavizante,2.0,2,,volumen
+hipermaxi,detergente liquido,kalipt,botella,5lt,11.89,sport,3.0,ojos,,volumen
+hipermaxi,detergente liquido,kalipt,botella,3lt,7.59,sport,1.0,ojos,,volumen
+hipermaxi,detergente liquido,eco,botella,5lt,5.85,floral,2.0,ojos,,volumen
+hipermaxi,detergente liquido,tide,botella,946ml,9.9,floral,2.0,ojos,,volumen
+hipermaxi,cloro,tips,botella,3.8lt,3.96,original,0.0,isla,,volumen
+hipermaxi,cloro,clorox,botella,2080g,1.85,original,0.0,isla,,peso
+hipermaxi,cloro,clorox,botella,2080g,1.85,original,10.0,ojos,,peso
+hipermaxi,cloro,clorox,botella,1gl,4.52,original,7.0,2,,volumen
+hipermaxi,cloro,clorox,botella,3950g,4.59,original,0.0,isla,,peso
+hipermaxi,cloro,clorox,botella,2.8lt,2.6,limon,2.0,arriba,,volumen
+hipermaxi,cloro,clorox,botella,2.8lt,2.6,limon,2.0,3,,volumen
+hipermaxi,cloro,clorox,botella,1.04g,1.52,limon,2.0,arriba,,peso
+hipermaxi,cloro,clorox,botella,1.04g,1.52,original,2.0,3,,peso
+hipermaxi,cloro,clorox,botella,1.045g,1.29,original,7.0,3,,peso
+hipermaxi,cloro,clorox,botella,1.045g,1.29,original,7.0,arriba,,peso
+hipermaxi,cloro,mi comisariato,botella,1.8lt,1.55,limon,0.0,isla,,volumen
+hipermaxi,cloro,mi comisariato,botella,1.8lt,1.55,original,0.0,isla,,volumen
+hipermaxi,cloro,mi comisariato,botella,1l,0.79,original,5.0,arriba,,volumen
+hipermaxi,cloro,mi comisariato,botella,1l,0.79,lavanda,3.0,arriba,,volumen
+hipermaxi,cloro,mi comisariato,botella,1l,0.85,limon,6.0,arriba,,volumen
+hipermaxi,cloro,mi comisariato,botella,1l,0.79,original,5.0,3,,volumen
+hipermaxi,cloro,mi comisariato,botella,1l,0.79,lavanda,3.0,3,,volumen
+hipermaxi,cloro,mi comisariato,botella,1l,0.85,limon,6.0,3,,volumen
